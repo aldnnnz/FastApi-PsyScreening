@@ -45,7 +45,7 @@ Thumbs.db
 .env.local
 .env.*.local
 
-*.keras
+
 *.onnx
 __pycache__/
 
