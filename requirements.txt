@@ -11,6 +11,7 @@ joblib==1.5.3
 
 deep-translator==1.11.4
 python-multipart==0.0.20
+slowapi==0.1.9
 
 jupyter==1.0.0
 jupyterlab==4.0.9
